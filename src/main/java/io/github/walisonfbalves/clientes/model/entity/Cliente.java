@@ -1,4 +1,4 @@
-package io.github.walisonfbalves.clientes.mode.entity;
+package io.github.walisonfbalves.clientes.model.entity;
 
 import lombok.Data;
 
